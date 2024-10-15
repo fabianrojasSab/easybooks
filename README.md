@@ -64,3 +64,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Comands
+-- se ejecutan comando para importar las librerias necesarias
+composer require 
+npm i  
+-- se ejecuta comando para realizar migracion de la estructura de la base de datos
+php artisan migrate 
+-- se ejecutan comando para correr el aplicativo
+npm run dev 
+php artisan serve                 
