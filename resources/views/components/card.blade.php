@@ -1,4 +1,4 @@
-<div class="relative mt-6 flex w-96 flex-col">
+<div class="relative mt-6 mx-auto flex w-96 flex-col">
     <!--tarjeta pacientes-->
     <div class="flip-card">
         <!--front-->
